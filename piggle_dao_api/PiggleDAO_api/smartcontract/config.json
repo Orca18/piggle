@@ -1,0 +1,19 @@
+{
+    "SmartContractParams" : {
+        "dev_address":"FU2XPFPY3R5AIOWMNGPPTC7SYFGSHHBMOR3GAV7DDXN3PPWAOXOESOJJCA", 
+        "dev_mnemonic" : "very dragon horse naive kitchen north author suspect future cargo badge govern inflict wool goat trigger sound earth hill busy one stomach october absent stick",
+        "token" :"077c26e385d04e3e7c8a31b63ec68c7f61b0c1f15f43d44ee53c0d573a48ba5a",
+        "ip_address":"http://121.134.239.233",
+        "port":"4162",
+        "token_id" : "3957",
+        "bubbly_token_id" : "446",
+        "staking_mnemonic" : "almost room prison prosper boil island oyster steak enact emotion gate naive cushion museum law excess exact dizzy public give online kingdom universe able tackle",
+        "staking_addr": "WAUAUNBLTWS23FF32MUSVBXFBGFRJWZT4SJCJNZZQBOQE6XBYAB4A4MMZU"
+    },
+    "ipfs_gateway": "http://localhost:8081/ipfs/",
+    "amount" : {
+        "winner_reward" : 100000,
+        "voter_reward" : 2000,
+        "ranker_minus" : 10000
+    }
+}

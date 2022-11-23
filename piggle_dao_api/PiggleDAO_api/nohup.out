@@ -1,0 +1,107 @@
+Initializing daemon...
+go-ipfs version: 0.10.0
+Repo version: 11
+System version: amd64/linux
+Golang version: go1.16.8
+2022/10/27 19:06:53 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 2048 kiB, got: 416 kiB). See https://github.com/lucas-clemente/quic-go/wiki/UDP-Receive-Buffer-Size for details.
+Swarm listening on /ip4/127.0.0.1/tcp/4001
+Swarm listening on /ip4/127.0.0.1/udp/4001/quic
+Swarm listening on /ip4/192.168.217.55/tcp/4001
+Swarm listening on /ip4/192.168.217.55/udp/4001/quic
+Swarm listening on /ip6/::1/tcp/4001
+Swarm listening on /ip6/::1/udp/4001/quic
+Swarm listening on /p2p-circuit
+Swarm announcing /ip4/127.0.0.1/tcp/4001
+Swarm announcing /ip4/127.0.0.1/udp/4001/quic
+Swarm announcing /ip4/192.168.217.55/tcp/4001
+Swarm announcing /ip4/192.168.217.55/udp/4001/quic
+Swarm announcing /ip6/::1/tcp/4001
+Swarm announcing /ip6/::1/udp/4001/quic
+API server listening on /ip4/127.0.0.1/tcp/5001
+WebUI: http://127.0.0.1:5001/webui
+Gateway (readonly) server listening on /ip4/127.0.0.1/tcp/8080
+Daemon is ready
+
+Received interrupt signal, shutting down...
+(Hit ctrl-c again to force-shutdown the daemon.)
+Initializing daemon...
+go-ipfs version: 0.10.0
+Repo version: 11
+System version: amd64/linux
+Golang version: go1.16.8
+2022/11/17 18:47:27 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 2048 kiB, got: 416 kiB). See https://github.com/lucas-clemente/quic-go/wiki/UDP-Receive-Buffer-Size for details.
+Swarm listening on /ip4/127.0.0.1/tcp/4001
+Swarm listening on /ip4/127.0.0.1/udp/4001/quic
+Swarm listening on /ip4/172.27.91.186/tcp/4001
+Swarm listening on /ip4/172.27.91.186/udp/4001/quic
+Swarm listening on /ip6/::1/tcp/4001
+Swarm listening on /ip6/::1/udp/4001/quic
+Swarm listening on /p2p-circuit
+Swarm announcing /ip4/127.0.0.1/tcp/4001
+Swarm announcing /ip4/127.0.0.1/udp/4001/quic
+Swarm announcing /ip4/172.27.91.186/tcp/4001
+Swarm announcing /ip4/172.27.91.186/udp/4001/quic
+Swarm announcing /ip6/::1/tcp/4001
+Swarm announcing /ip6/::1/udp/4001/quic
+API server listening on /ip4/0.0.0.0/tcp/5001
+WebUI: http://0.0.0.0:5001/webui
+Gateway (readonly) server listening on /ip4/0.0.0.0/tcp/8081
+Daemon is ready
+
+Received interrupt signal, shutting down...
+(Hit ctrl-c again to force-shutdown the daemon.)
+Initializing daemon...
+Kubo version: 0.16.0
+Repo version: 12
+System version: amd64/linux
+Golang version: go1.19.1
+2022/11/20 21:32:54 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 2048 kiB, got: 416 kiB). See https://github.com/lucas-clemente/quic-go/wiki/UDP-Receive-Buffer-Size for details.
+Swarm listening on /ip4/10.0.0.68/tcp/4001
+Swarm listening on /ip4/10.0.0.68/udp/4001/quic
+Swarm listening on /ip4/127.0.0.1/tcp/4001
+Swarm listening on /ip4/127.0.0.1/udp/4001/quic
+Swarm listening on /ip6/::1/tcp/4001
+Swarm listening on /ip6/::1/udp/4001/quic
+Swarm listening on /p2p-circuit
+Swarm announcing /ip4/10.0.0.68/tcp/4001
+Swarm announcing /ip4/10.0.0.68/udp/4001/quic
+Swarm announcing /ip4/127.0.0.1/tcp/4001
+Swarm announcing /ip4/127.0.0.1/udp/4001/quic
+Swarm announcing /ip4/152.67.208.143/udp/4001/quic
+Swarm announcing /ip6/::1/tcp/4001
+Swarm announcing /ip6/::1/udp/4001/quic
+API server listening on /ip4/0.0.0.0/tcp/5001
+WebUI: http://0.0.0.0:5001/webui
+Gateway (readonly) server listening on /ip4/0.0.0.0/tcp/8081
+Daemon is ready
+
+Received interrupt signal, shutting down...
+(Hit ctrl-c again to force-shutdown the daemon.)
+Initializing daemon...
+Kubo version: 0.16.0
+Repo version: 12
+System version: amd64/linux
+Golang version: go1.19.1
+2022/11/21 14:15:03 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 2048 kiB, got: 416 kiB). See https://github.com/lucas-clemente/quic-go/wiki/UDP-Receive-Buffer-Size for details.
+Swarm listening on /ip4/10.0.0.68/tcp/4001
+Swarm listening on /ip4/10.0.0.68/udp/4001/quic
+Swarm listening on /ip4/127.0.0.1/tcp/4001
+Swarm listening on /ip4/127.0.0.1/udp/4001/quic
+Swarm listening on /ip6/::1/tcp/4001
+Swarm listening on /ip6/::1/udp/4001/quic
+Swarm listening on /p2p-circuit
+Swarm announcing /ip4/10.0.0.68/tcp/4001
+Swarm announcing /ip4/10.0.0.68/udp/4001/quic
+Swarm announcing /ip4/127.0.0.1/tcp/4001
+Swarm announcing /ip4/127.0.0.1/udp/4001/quic
+Swarm announcing /ip4/152.67.208.143/udp/4001/quic
+Swarm announcing /ip6/::1/tcp/4001
+Swarm announcing /ip6/::1/udp/4001/quic
+API server listening on /ip4/0.0.0.0/tcp/5001
+WebUI: http://0.0.0.0:5001/webui
+Gateway (readonly) server listening on /ip4/0.0.0.0/tcp/8081
+Daemon is ready
+2022-11-22T17:50:48.611+0900	ERROR	autorelay	autorelay/autorelay.go:80	failed to start relay finder	{"error": "relayFinder already running"}
+2022-11-22T17:50:52.313+0900	ERROR	autorelay	autorelay/autorelay.go:80	failed to start relay finder	{"error": "relayFinder already running"}
+
+Received another interrupt before graceful shutdown, terminating...
